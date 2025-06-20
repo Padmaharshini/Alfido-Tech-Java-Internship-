@@ -1,2 +1,5 @@
 # Alfido-Tech-Java-Internship-
-task 1 hello world 
+Task 1: Hello World Program
+Task 2: Calculator Program
+Task 3: OOP with Classes
+Task 4: File Reader
